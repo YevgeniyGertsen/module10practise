@@ -10,6 +10,7 @@ import (
 	"github.com/YevgeniyGertsen/module10practise/shop"
 )
 
+// основная функция
 func main() {
 	reader := bufio.NewReader(os.Stdin)
 
